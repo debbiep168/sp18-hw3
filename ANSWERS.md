@@ -2,8 +2,7 @@
 
 1. What does the second 'nil' argument in the line 6 text_field_tag of teachers/new.html.erb represent?
 
-The second nil argument represents the value argument, which is a placeholder for text you want to show in the text field by default.
-
+The second nil argument represents the value argument.
 
 2. Go to `localhost:3000/teachers` in your browser; why does this not work?
 
